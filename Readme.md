@@ -21,7 +21,7 @@
 ### PassiveAggressiveClassifier
 
 
-
+![](https://gitee.com/song_tianyi/picture-host/raw/master/ndata//20200709141551.png)
 
 
 ## 计算公式
