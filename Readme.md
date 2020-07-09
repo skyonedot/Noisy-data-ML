@@ -45,6 +45,7 @@ $$
 ###### Update rule
 
 $$
+
 \forall i,w_{t+1}[i] = \frac{w_t[i]e^{-\eta z_t[i]}}{\sum_jw_t[j]e^{-\eta z_t[j]}} \quad
 
 \\
@@ -57,7 +58,8 @@ z_t[i] = \left\{
 \\
 h_i(x)为第i个base\_model的预测标签
 \\
-\eta 为初始指定参数
+\eta 为初始指定参数
+
 $$
 
 
